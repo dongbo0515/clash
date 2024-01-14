@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,plexpro.top
 DOMAIN-SUFFIX,wogg.link
 DOMAIN-SUFFIX,carlos.trade
 IP-CIDR,140.238.23.235/32,no-resolve
+IP-CIDR,104.18.41.153/32,no-resolve
